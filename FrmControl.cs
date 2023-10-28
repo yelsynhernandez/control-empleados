@@ -142,9 +142,9 @@ namespace ProyectoYaya
         {
             bool exito = false;
             if (TxtPrimerNombre.Text.Length > 0 &&
-                TxtSegundoNombre.Text.Length > 0 &&
+                //TxtSegundoNombre.Text.Length > 0 &&
                 TxtPrimerApellido.Text.Length > 0 &&
-                TxtSegundoApellido.Text.Length > 0 &&
+               //TxtSegundoApellido.Text.Length > 0 &&
                 TxtSueldo.Text.Length > 0)
             {
                 exito = true;

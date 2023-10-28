@@ -58,9 +58,9 @@
             LblSegundoNombre.AutoSize = true;
             LblSegundoNombre.Location = new Point(283, 87);
             LblSegundoNombre.Name = "LblSegundoNombre";
-            LblSegundoNombre.Size = new Size(128, 14);
+            LblSegundoNombre.Size = new Size(120, 14);
             LblSegundoNombre.TabIndex = 4;
-            LblSegundoNombre.Text = "*Segundo nombre:";
+            LblSegundoNombre.Text = "Segundo nombre:";
             // 
             // TxtDemasNombres
             // 
@@ -106,9 +106,9 @@
             LblSegundoApellido.AutoSize = true;
             LblSegundoApellido.Location = new Point(283, 128);
             LblSegundoApellido.Name = "LblSegundoApellido";
-            LblSegundoApellido.Size = new Size(129, 14);
+            LblSegundoApellido.Size = new Size(121, 14);
             LblSegundoApellido.TabIndex = 10;
-            LblSegundoApellido.Text = "*Segundo apellido:";
+            LblSegundoApellido.Text = "Segundo apellido:";
             // 
             // TxtPrimerNombre
             // 
